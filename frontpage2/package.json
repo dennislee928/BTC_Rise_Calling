@@ -54,6 +54,7 @@
     "vue-i18n": "^11.4.14",
     "ws": "^8.21.0",
     "@intlify/shared": "^11.4.14",
-    "@vue/server-renderer": "^3.5.42"
+    "@vue/server-renderer": "^3.5.42",
+    "glob": "^10.5.0"
   }
 }
