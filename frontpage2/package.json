@@ -57,6 +57,7 @@
     "@vue/server-renderer": "^3.5.42",
     "glob": "^10.5.0",
     "path-to-regexp": "^6.3.0",
-    "rollup": "^4.59.0"
+    "rollup": "^4.59.0",
+    "source-map-js": "^1.2.2"
   }
 }
