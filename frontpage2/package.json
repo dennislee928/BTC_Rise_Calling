@@ -49,6 +49,7 @@
     "@intlify/core-base": "^11.4.14",
     "browserslist": "^4.28.7",
     "flatted": "^3.4.2",
-    "picomatch": "^4.0.4"
+    "picomatch": "^4.0.4",
+    "postcss": "^8.5.23"
   }
 }
