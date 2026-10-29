@@ -59,6 +59,7 @@
     "path-to-regexp": "^6.3.0",
     "rollup": "^4.59.0",
     "source-map-js": "^1.2.2",
-    "@nuxt/nitro-server": "^3.21.6"
+    "@nuxt/nitro-server": "^3.21.6",
+    "unhead": "^2.1.13"
   }
 }
