@@ -60,6 +60,7 @@
     "rollup": "^4.59.0",
     "source-map-js": "^1.2.2",
     "@nuxt/nitro-server": "^3.21.6",
-    "unhead": "^2.1.13"
+    "unhead": "^2.1.13",
+    "nitropack": "^2.13.4"
   }
 }
